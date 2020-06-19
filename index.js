@@ -89,6 +89,7 @@ window.requestAnimationFrame(moveRock)
   return rock
 }
 
+
 /**
  * End the game by clearing `gameInterval`,
  * removing all ROCKS from the DOM,
